@@ -33,5 +33,16 @@
   
   }
   
-  
+  .explicacao {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 45px "Jua", sans-serif;
+    position: absolute;
+    left: 650px;
+    top: 300px;
+    width: 600px;
+    height: 50px;
+    
+  }
   
