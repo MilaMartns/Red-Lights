@@ -1,60 +1,47 @@
 *{
-    padding: 0%;
-    margin: 0%;
-  }
-  .fundo{
-  
-    background-color: #000000;
-      color: #000000;
-      border: 0%;
-      width: 100%;
-      height: 990px;
-      position: relative;
-      overflow: hidden;
-  }
-  
-  .logo {
-  
-    position: absolute;
-    left: 480px;
-    top: 60px;
-    width: 890px;
-    height: 285px;
-  
-  }
-  .cabecalho {
+  padding: 0%;
+  margin: 0%;
+}
+.fundo{
 
+  background-color: #000000;
+    color: #000000;
+    border: 0%;
+    width: 100%;
+    height: 990px;
     position: relative;
-    width: 1950px;
-    height: 160px;
-    flex-shrink: 0;
-  
-    background: linear-gradient(180deg, #FA00FF 0%, rgba(250, 0, 255, 0.00) 0.01%, rgba(248, 4, 229, 0.12) 0.02%, #EC1F1F 54.17%, #000 66.67%);
-  
-  }
+    overflow: hidden;
+}
 
+.logo {
 
-  .rodape {
+  position: absolute;
+  left: 480px;
+  top: 60px;
+  width: 929px;
+  height: 330px;
 
-    position: relative;
-    width: 78px;
-    height: 50px;
-    flex-shrink: 0;
-  
-    background: linear-gradient(180deg, #FA00FF 0%, rgba(250, 0, 255, 0.00) 0.01%, rgba(248, 4, 229, 0.12) 0.02%, #EC1F1F 54.17%, #000 66.67%);
-  
-  }
-  
-  .explicacao {
+}
+.cabecalho {
 
-    color: hsl(0, 0%, 100%);
-    text-align: left;
-    font: 400 45px "Jua", sans-serif;
-    position: absolute;
-    left: 650px;
-    top: 300px;
-    width: 600px;
-    height: 50px;
-    
-  }
+  position: relative;
+  width: 1950px;
+  height: 160px;
+  flex-shrink: 0;
+
+  background: linear-gradient(180deg, #FA00FF 0%, rgba(250, 0, 255, 0.00) 0.01%, rgba(248, 4, 229, 0.12) 0.02%, #EC1F1F 54.17%, #000 66.67%);
+
+}
+
+.explicacao {
+
+  color: hsl(0, 0%, 100%);
+  text-align: left;
+  font: 400 40px "Jua", sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 300px;
+  width: 600px;
+  height: 50px;
   
+}
