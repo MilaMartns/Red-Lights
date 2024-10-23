@@ -37,11 +37,27 @@
 
   color: hsl(0, 0%, 100%);
   text-align: left;
-  font: 400 40px "Jua", sans-serif;
+  font: 400 38px "Jua", sans-serif;
   position: absolute;
   left: 650px;
-  top: 300px;
+  top: 368px;
   width: 600px;
   height: 50px;
   
+}
+
+.vestido {
+
+  padding: 0%;
+  margin: 0%;
+  position: absolute;
+
+}
+
+.sapato {
+  
+  padding: 0%;
+  margin: 0%;
+  position: absolute;
+
 }
